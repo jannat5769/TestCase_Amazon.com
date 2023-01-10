@@ -1,2 +1,2 @@
-# TestCase_Amazon.com
+Test cases of registration and login functionality on amazon.com
  
